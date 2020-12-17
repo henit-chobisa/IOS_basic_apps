@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Wallpaper-Nebula,-Teal,-Turquoise,-4K,-8K,-Space,-15333.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Wallpaper-Nebula,-Teal,-Turquoise,-4K,-8K,-Space,-15333@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Wallpaper-Nebula,-Teal,-Turquoise,-4K,-8K,-Space,-15333@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
